@@ -1,4 +1,4 @@
-# Forensic Insight Hub
+# Digital-Forensic-Incident-Handling
 
 ## Cara Install & Menjalankan Project
 
@@ -25,7 +25,7 @@ git clone https://github.com/Fiz5892/Digital-Forensic-Incident-Handling.git
 ## 2. Masuk ke Folder Project
 
 ```sh
-cd forensic-insight-hub
+cd Digital-Forensic-Incident-Handling
 ```
 
 ---
