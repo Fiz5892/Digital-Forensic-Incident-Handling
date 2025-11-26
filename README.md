@@ -7,7 +7,7 @@ Project ini dibangun menggunakan:
 - **React (TypeScript)**
 - **Tailwind CSS**
 - **shadcn/ui**
-- **Supabase** sebagai backend
+- **Supabase**
 
 Ikuti langkah berikut untuk menjalankan project secara lokal.
 
@@ -17,7 +17,7 @@ Ikuti langkah berikut untuk menjalankan project secara lokal.
 Clone repository dari GitHub menggunakan perintah berikut:
 
 ```sh
-git clone https://github.com/Fiz5892/forensic-insight-hub.git
+git clone https://github.com/Fiz5892/Digital-Forensic-Incident-Handling.git
 ```
 
 ---
